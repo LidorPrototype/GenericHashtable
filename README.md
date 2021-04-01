@@ -1,4 +1,4 @@
-HenericHashtable implementation by Lidor Eliyahu Shelef
+ex1 - HenericHashtable implementation by Lidor Eliyahu Shelef
 
 this generic hash table supports 3 actions:
     - Adding an item
